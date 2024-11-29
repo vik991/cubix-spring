@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class AirportApplication implements CommandLineRunner {
+	//Test modification
 
 	@Autowired
 	DiscountService discountService;
